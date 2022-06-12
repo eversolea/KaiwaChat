@@ -1,7 +1,7 @@
 # KaiwaChat
 A concurrent chat server application that uses a custom created network protocol called Kaiwachat
 
-Demo: https://www.youtube.com/watch?v=fEW1zhX5OgM
+Demo: https://www.youtube.com/watch?v=fEW1zhX5OgM (can you spot any SW prequel references?)
 
 # Environment to run KaiwaChat
 Please use a Windows Operating system to run these executables.
