@@ -1,5 +1,5 @@
 # KaiwaChat
-A concurrent client-server chat application that uses a newly created network protocol
+A concurrent chat server application that uses a custom created network protocol called Kaiwachat
 
 # Environment to run KaiwaChat
 Please use a Windows Operating system to run these executables.
